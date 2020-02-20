@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "carlTestDocs/index.md",
+      "redirect_url": "/github.com/carlyugithub/carlTest/index",
+      "redirect_document_id": false
+    }
+  ]
+}
